@@ -1,0 +1,5 @@
+My name is Himesh Sharma.
+I am a Computer Science Engineering student.
+My specialization is Artificial Intelligence and Machine Learning.
+I am interested in programming and technology.
+My goal is to become a skilled software developer.
